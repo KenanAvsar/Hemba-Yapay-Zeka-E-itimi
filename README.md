@@ -1,0 +1,3 @@
+Bu bölümde almış olduğum Milli Eğitim Bakanlığı'nın Hemba adlı platformunda verilen Yapay Zeka Eğitimi'nde çalıştığım konuları ve projeleri göreceksiniz. Bu eğitimde Veri Bilimi'nden, İstatistik'e, Makine Öğrenmesi'nden, Derin Öğrenme'ye kadar derinlemesine yapay zeka eğitimi içeriği var. Ve Eğitim birçok proje ile desteklenmiştir.
+
+In this section, you will see the topics and projects I worked on in the Artificial Intelligence Training given on the Ministry of National Education's Hemba platform. In this training, there is in-depth artificial intelligence training content from Data Science, Statistics, Machine Learning to Deep Learning. And the training is supported by many projects.
